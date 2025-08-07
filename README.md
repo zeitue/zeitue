@@ -3,7 +3,7 @@
 
 ![zeitue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeitue&theme=dracula&include_all_commits=true)
 
-![zeitue's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeitue&hide=javascript,html,css,sass&theme=dracula)
+![zeitue's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeitue&theme=dracula)
 
 ---
 
